@@ -2,9 +2,9 @@
 
 # Define the output file names
 COURSE=378
-TYEAR=SP25
+TYEAR=SP26
 CLASS=01
-SECTION=4952
+SECTION=4624
 NAME=Giacalone_Anthony
 
 # Generate output files

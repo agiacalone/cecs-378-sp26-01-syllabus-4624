@@ -48,6 +48,10 @@ Students will take two midterm exams throughout the semester. There will be no m
 
 Attendance in this course is mandatory, as all material presented during class is fair game for exam questions or homework. Students are responsible for notifying the instructor about any extended leave of absences. There will be no makeups for assignments, quizzes, or exams that are missed due to an unexcused absence.
 
+### Grading Philosophy
+
+Programming and systems assignments (lab assignments) in this course are evaluated as demonstrations of understanding, not as checklists of features. While rubrics may be provided to outline major expectations, they are descriptive rather than contractual and do not guarantee credit for partial or surface-level compliance. A working program, the presence of files, or matching output alone does not imply mastery. Credit is awarded based on the overall quality, correctness, completeness, and clarity of the work, including evidence of individual reasoning and design decisions appropriate to the concepts being taught. As in professional engineering practice, submissions that are incomplete, inconsistent, or fail to demonstrate sufficient understanding may receive partial or no credit at the instructor’s discretion.
+
 ### Class Rules
 
 Homework and lab assignments will be assigned approximately every other week, and will mostly involve written work and coding.
